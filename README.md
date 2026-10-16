@@ -8,10 +8,6 @@
 
 A console-based arithmetic calculator written in Python and presented as a Jupyter Notebook. The program accepts two numbers from the user and provides a numbered menu through which six arithmetic operations can be performed repeatedly until the user chooses to exit.
 
-<p align="center">
-  <img src="images/demo.png" alt="Simple Calculator running in the terminal" width="560">
-</p>
-
 ---
 
 ## Table of Contents
