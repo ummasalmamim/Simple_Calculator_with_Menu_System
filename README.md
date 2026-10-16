@@ -163,17 +163,7 @@ Calculator closed. Thank you!
 
 ---
 
-## Program Structure
-
-```text
-Simple_Calculator_with_Menu_System/
-├── Simple_Calculator_with_Menu_System_.ipynb   # Calculator source code and sample output
-├── images/
-│   └── demo.png                                # Screenshot of a sample session
-└── README.md                                   # Project documentation
-```
-
-The program logic proceeds as follows:
+## The program logic proceeds as follows:
 
 1. Read two numbers and convert them to `float`.
 2. Enter an infinite loop that displays the menu.
@@ -216,4 +206,3 @@ The program logic proceeds as follows:
 **ummasalmamim**
 GitHub: [@ummasalmamim](https://github.com/ummasalmamim)
 
-Developed as a Python programming exercise.
