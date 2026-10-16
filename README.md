@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Interface-Command%20Line-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Command-line interface">
 </p>
 
 A console-based arithmetic calculator written in Python and presented as a Jupyter Notebook. The program accepts two numbers from the user and provides a numbered menu through which six arithmetic operations can be performed repeatedly until the user chooses to exit.
